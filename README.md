@@ -1,4 +1,4 @@
-## Hi there! I'm Denise (she/her).
+## Hi there! I'm Denise (she/her) ✌🏼
 
 👩🏻‍💻 &nbsp;Chicago-based Latina pursuing data science after a career in marketing/project management\
 🎓 &nbsp;Currently: General Assembly | Alma Mater: DePaul University\
@@ -16,6 +16,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-05122A?style=flat&logo=Tableau)&nbsp;
+![Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
 
 <!-- ### GitHub Analytics
 
