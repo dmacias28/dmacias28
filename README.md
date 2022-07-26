@@ -4,7 +4,7 @@
 🎓 &nbsp;Currently: General Assembly | Alma Mater: DePaul University.\
 🌱 &nbsp;Passionate about the well-being of our planet and interested in the green tech space.\
 📈 &nbsp;I'm currently working on a time series project that will forecast the average magnitude of thunderstorm winds for the next year.\
-🎵 &nbsp;While I'm waiting for my code to finish running, you can catch me either learning a new tune on my ukulele or curating a new playlist on Spotify.\
+🎵 &nbsp;While I'm waiting for my code to finish running, you can catch me either learning a new tune on my ukulele or curating a new playlist on Spotify.
 
 ### Tech Stack
 
@@ -21,7 +21,7 @@
 
 <p align="center">
 <a href="https://github.com/dmacias28">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmacias28&layout=compact&langs_count=8&theme=prussian"/>
 </a>
 </p>
 
