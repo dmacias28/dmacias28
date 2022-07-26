@@ -20,14 +20,14 @@
 ### GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/dmacias28">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝 &nbsp;Let's connect!
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/denise-a-macias/"><img src="https://img.shields.io/badge/Denise%20A.%20Macias-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/dohh28/"><img src="https://img.shields.io/badge/dohh28-1DB954?style=flat&logo=spotify&logoColor=white"/></a>
 </p>
