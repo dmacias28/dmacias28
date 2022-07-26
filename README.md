@@ -24,7 +24,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-05122A?style=flat&logo=scipy)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
-![Keras](https://img.shields.io/badge/Keras-05122A?style=flat&logo=Keras&logoColor=%23D00000.svg)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-05122A?style=flat&logo=Keras&logoColor=E60000)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=PyTorch)&nbsp;
 
 <!-- ### GitHub Analytics
