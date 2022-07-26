@@ -19,12 +19,12 @@
 ![Tableau](https://img.shields.io/badge/Tableau-05122A?style=flat&logo=Tableau)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
 
-![Pandas](https://img.shields.io/badge/pandas-05122A?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/numpy-05122A?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-05122A?style=flat&logo=numpy)
 ![SciPy](https://img.shields.io/badge/SciPy-05122A?style=flat&logo=scipy)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-05122A?style=flat&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=TensorFlow)
-![Keras](https://img.shields.io/badge/Keras-05122A?style=flat&logo=Keras)
+![Keras](https://img.shields.io/badge/Keras-05122A?style=flat&logo=Keras%logoColor=logoColor=%23D00000.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=PyTorch)
 
 <!-- ### GitHub Analytics
