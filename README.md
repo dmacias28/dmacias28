@@ -1,6 +1,6 @@
 ## Hi there! I'm Denise (she/her) ✌🏼
 
-📍 &nbsp;Chicago-based Latina pursuing data science after a career in marketing/project management\
+📍 &nbsp;Chicago-based Latina pursuing data science after a career in marketing/product management\
 🎓 &nbsp;Currently: General Assembly | Alma Mater: DePaul University\
 🌎 &nbsp;Passionate about the well-being of our planet and interested in the green tech space\
 📊 &nbsp;I'm currently working on a time series project that will forecast the average magnitude of thunderstorm winds for the next year!\
