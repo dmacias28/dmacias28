@@ -18,7 +18,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-05122A?style=flat&logo=Tableau)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
-
 ![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-05122A?style=flat&logo=numpy)&nbsp;
 ![SciPy](https://img.shields.io/badge/SciPy-05122A?style=flat&logo=scipy)&nbsp;
