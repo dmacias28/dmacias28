@@ -1,10 +1,10 @@
 ## Hi there! I'm Denise (she/her) ✌🏼
 
-👩🏻‍💻 &nbsp;Chicago-based Latina pursuing data science after a career in marketing/project management\
+📍 &nbsp;Chicago-based Latina pursuing data science after a career in marketing/project management\
 🎓 &nbsp;Currently: General Assembly | Alma Mater: DePaul University\
-🌱 &nbsp;Passionate about the well-being of our planet and interested in the green tech space\
-📊 &nbsp;I'm currently working on a time series project that will forecast the average magnitude of thunderstorm winds for the next year\
-🎧 &nbsp;While I'm waiting for my code to finish running, you can catch me either curating a new playlist or learning a new tune on my ukulele
+🌎 &nbsp;Passionate about the well-being of our planet and interested in the green tech space\
+📊 &nbsp;I'm currently working on a time series project that will forecast the average magnitude of thunderstorm winds for the next year!\
+🤘🏼 &nbsp;While I'm waiting for my code to finish running, you can catch me either curating a new playlist or learning a new tune on my ukulele
 
 ### Tech Stack
 
@@ -17,7 +17,15 @@
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-05122A?style=flat&logo=Tableau)&nbsp;
-![Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
+![Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
+
+![Pandas](https://img.shields.io/badge/pandas-05122A?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/numpy-05122A?style=flat&logo=numpy)
+![SciPy](https://img.shields.io/badge/SciPy-05122A?style=flat&logo=scipy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-05122A?style=flat&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=TensorFlow)
+![Keras](https://img.shields.io/badge/Keras-05122A?style=flat&logo=Keras)
+![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=PyTorch)
 
 <!-- ### GitHub Analytics
 
