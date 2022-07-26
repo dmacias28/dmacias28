@@ -1,7 +1,7 @@
 ## Hi there! I'm Denise (she/her).
 
 👩🏻‍💻 &nbsp;Chicago-based Latina pursuing data science after a career in marketing/project management.\
-🎓 &nbsp;Currently: General Assembly | Alma Mater: DePaul University
+🎓 &nbsp;Currently: General Assembly | Alma Mater: DePaul University.\
 🌱 &nbsp;Passionate about the well-being of our planet and interested in the green tech space.\
 📈 &nbsp;I'm currently working on a time series project that will forecast the average magnitude of thunderstorm winds for the next year.\
 🎵 &nbsp;While I'm waiting for my code to finish running, you can catch me either learning a new tune on my ukulele or curating a new playlist on Spotify.\
@@ -27,7 +27,7 @@
 
 ### 🤝 &nbsp;Let's connect!
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/denise-a-macias/"><img src="https://img.shields.io/badge/Denise%20A.%20Macias-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/dohh28/"><img src="https://img.shields.io/badge/dohh28-1DB954?style=flat&logo=spotify&logoColor=white"/></a>
 </p>
