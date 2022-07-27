@@ -15,7 +15,9 @@
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Jupyter Lab](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-05122A?style=flat&logo=databricks)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-05122A?style=flat&logo=Tableau)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=217346)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)&nbsp;
