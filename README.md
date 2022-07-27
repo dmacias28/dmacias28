@@ -6,7 +6,7 @@
 📊 &nbsp;I'm currently working on a time series project that will forecast the average magnitude of thunderstorm winds for the next year!\
 🤘🏼 &nbsp;While I'm waiting for my code to run, you can catch me either curating a new playlist or learning a new tune on my ukulele
 
-### Tech Stack
+### 💻 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
