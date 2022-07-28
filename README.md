@@ -3,7 +3,7 @@
 📍 &nbsp;Chicago-based Latina pursuing data science after a career in marketing/product management\
 🎓 &nbsp;Currently: General Assembly | Alma Mater: DePaul University\
 🌎 &nbsp;Passionate about the well-being of our planet and interested in the green tech space\
-📈 &nbsp;I'm currently working on my capstone project, a time series that will forecast the average magnitude of thunderstorm winds!\
+📈 &nbsp;I'm currently working on my capstone project: a time series that will forecast the average magnitude of thunderstorm winds!\
 🤘🏼 &nbsp;While I'm waiting for my code to run, you can catch me either curating a new playlist or learning a new tune on my ukulele
 
 ### 💻 &nbsp;Tech Stack
