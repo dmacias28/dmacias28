@@ -3,7 +3,7 @@
 📍 &nbsp;Chicago-based Latina pursuing data science after a career in marketing/product management\
 🎓 &nbsp;Alma Maters: DePaul University | General Assembly\
 🌎 &nbsp;Passionate about the well-being of our planet and interested in the green tech space\
-📈 &nbsp;I'm currently working on ...\
+📈 &nbsp;I'm currently working on cleaning up some old projects\
 🤘🏼 &nbsp;While I'm waiting for my code to run, you can catch me either curating a new playlist or learning a new tune on my ukulele
 
 ### 💻 &nbsp;Tech Stack
@@ -44,4 +44,5 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/denise-a-macias/"><img src="https://img.shields.io/badge/Denise%20A.%20Macias-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/dohh28/"><img src="https://img.shields.io/badge/dohh28-1DB954?style=flat&logo=spotify&logoColor=white"/></a>
+<a href="https://medium.com/@deniseamacias1"><img src="https://img.shields.io/badge/deniseamacias1-12100E?style=flat&logo=medium&logoColor=white"/</a>
 </p>
