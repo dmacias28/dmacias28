@@ -43,6 +43,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/denise-a-macias/"><img src="https://img.shields.io/badge/Denise%20A.%20Macias-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/dohh28/"><img src="https://img.shields.io/badge/dohh28-1DB954?style=flat&logo=spotify&logoColor=white"/></a>
 <a href="https://medium.com/@deniseamacias1"><img src="https://img.shields.io/badge/deniseamacias1-12100E?style=flat&logo=medium&logoColor=white"/</a>
+<a href="https://open.spotify.com/user/dohh28/"><img src="https://img.shields.io/badge/dohh28-1DB954?style=flat&logo=spotify&logoColor=white"/></a>
 </p>
